@@ -9,7 +9,7 @@ charge 0.25/min over the plan + 15% tax on sub total
 methods - calculate tax, overage fees and final total
 print itemized bill
  */
-public class Ex4 {
+public class PhoneBillCalculator {
     static double overageCharge = 0.25;
     static double tax = 15;
     static Scanner scanner = new Scanner(System.in);

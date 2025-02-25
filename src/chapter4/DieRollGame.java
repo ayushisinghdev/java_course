@@ -14,7 +14,7 @@ current space !> 20
 
 /*Random random = new Random();
 int die = random.nextInt(6) + 1;*/
-public class Ex3 {
+public class DieRollGame {
 
     public static void main(String args[]){
 

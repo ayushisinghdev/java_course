@@ -17,7 +17,7 @@ If it's less than one dollar, tell them how much they went under.
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class DollarGame {
 
     public static void main(String args[]){
 

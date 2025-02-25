@@ -2,7 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-public class Ex1 {
+public class SeasonGame {
     public static void main(String arg[]){
 
         //1. get the season of the year
